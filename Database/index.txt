@@ -1,0 +1,11 @@
+1 Database\1.bmp Database\1.mdl 1 lxc
+2 Database\2.bmp Database\2.mdl 1 lxc
+3 Database\3.bmp Database\3.mdl 1 lxc
+4 Database\4.bmp Database\4.mdl 2 lg
+5 Database\5.bmp Database\5.mdl 2 lg
+6 Database\6.bmp Database\6.mdl 2 lg
+7 Database\7.bmp Database\7.mdl 3 123
+8 Database\8.bmp Database\8.mdl 2 demo
+9 Database\9.bmp Database\9.mdl 52 52
+10 Database\10.bmp Database\10.mdl 52 52
+11 Database\11.bmp Database\11.mdl 52 52
